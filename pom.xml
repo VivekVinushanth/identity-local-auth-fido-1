@@ -351,7 +351,7 @@
         <swagger.jaxrs.version>1.6.2</swagger.jaxrs.version>
         <jackson-jaxrs-json-provider.version>2.13.1</jackson-jaxrs-json-provider.version>
         <jackson-dataformat-xml.version>2.13.1</jackson-dataformat-xml.version>
-        <guava.osgi.version.range>[18.0.0,30.0.0]</guava.osgi.version.range>
+        <guava.osgi.version.range>[18.0.0,32.0.0]</guava.osgi.version.range>
         <springframework.version>4.3.29.RELEASE</springframework.version>
         <org.apache.cxf.version>3.5.0</org.apache.cxf.version>
         <maven.war.plugin.version>3.2.2</maven.war.plugin.version>
